@@ -1,2 +1,2 @@
 # Labs
-Project from HackAfricaAI
+Project from HackAfricaAI, Remote sensing and WQU scientific computing.
